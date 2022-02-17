@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "projetcci",
+    "slug": "projetcci",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "projetcci"
+}
